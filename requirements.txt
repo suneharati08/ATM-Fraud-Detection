@@ -1,0 +1,15 @@
+# Core Web Application & UI
+streamlit>=1.30.0
+
+# Machine Learning & Data Processing
+scikit-learn>=1.2.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualization & Explainability
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Generative AI & Deep Analysis
+groq>=0.9.0
